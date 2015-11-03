@@ -1,0 +1,19 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "react sample",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "react",
+    "sample"
+  ],
+  "authors": [
+    "sprajjobid@gmail.com"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "devDependencies": {
+    "react": "~0.14.2"
+  }
+}
